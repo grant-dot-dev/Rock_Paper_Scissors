@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		5916A5F52C0CCD7A0035F8FC /* Rock_Paper_ScissorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5916A5F42C0CCD7A0035F8FC /* Rock_Paper_ScissorsApp.swift */; };
-		5916A5F72C0CCD7A0035F8FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5916A5F62C0CCD7A0035F8FC /* ContentView.swift */; };
 		5916A5F92C0CCD7B0035F8FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5916A5F82C0CCD7B0035F8FC /* Assets.xcassets */; };
 		5916A5FC2C0CCD7B0035F8FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5916A5FB2C0CCD7B0035F8FC /* Preview Assets.xcassets */; };
 		5916A6032C30C0E80035F8FC /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5916A6022C30C0E80035F8FC /* Utils.swift */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		5916A5F12C0CCD7A0035F8FC /* Rock_Paper_Scissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rock_Paper_Scissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5916A5F42C0CCD7A0035F8FC /* Rock_Paper_ScissorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rock_Paper_ScissorsApp.swift; sourceTree = "<group>"; };
-		5916A5F62C0CCD7A0035F8FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5916A5F82C0CCD7B0035F8FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5916A5FB2C0CCD7B0035F8FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5916A6022C30C0E80035F8FC /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 			isa = PBXGroup;
 			children = (
 				5916A5F42C0CCD7A0035F8FC /* Rock_Paper_ScissorsApp.swift */,
-				5916A5F62C0CCD7A0035F8FC /* ContentView.swift */,
 				5916A5F82C0CCD7B0035F8FC /* Assets.xcassets */,
 				5916A5FA2C0CCD7B0035F8FC /* Preview Content */,
 				5916A6022C30C0E80035F8FC /* Utils.swift */,
@@ -143,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5916A5F72C0CCD7A0035F8FC /* ContentView.swift in Sources */,
 				5916A5F52C0CCD7A0035F8FC /* Rock_Paper_ScissorsApp.swift in Sources */,
 				5916A6052C30C7BD0035F8FC /* RockPaperScissors.swift in Sources */,
 				5916A6032C30C0E80035F8FC /* Utils.swift in Sources */,
